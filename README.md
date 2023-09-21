@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek
 - 👀 I’m interested in various projects
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Youtube video
+- 💞️ I’m looking to collaborate on a YouTube video
 - 📫 How to reach me abhisheksahil20@gmail.com
 
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
@@ -10,11 +10,11 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX+Designer;Computer+Science+Student;Open-Source+Enthusiast" alt="Headline" />
     </div>
-<p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p>
+<p align="center"><a href="https://abhizerk.github.io/abhishek.github.io">Portfolio↗️</a></p>
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
   
-![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/arjuncvinod?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=arjuncvinod&style=for-the-badge&logo=github" alt="" />
+![GitHub followers](https://img.shields.io/github/followers/Abhizerk?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/Abhizerk?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=Abhizerk&style=for-the-badge&logo=github" alt="" />
 
 
 <!-----About Me --------->
@@ -22,7 +22,7 @@
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
 
- ![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://arjuncvinod.netlify.com)
+ ![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://abhizerk.github.io/abhishek.github.io/)
 
  
  ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
